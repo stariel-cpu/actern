@@ -1,2 +1,3 @@
 # actern
-A Chromium fork
+A Chromium fork, degoogled simply.
+It uses Tor integrated.
